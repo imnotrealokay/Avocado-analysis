@@ -22,7 +22,7 @@ The data was sourced from the Hass Avocado Board's official website: [Hass Avoca
 - Compared sales volumes across different avocado sizes, particularly focusing on the Hass extra large variety (PLU4770).
 
 ## Results and Findings
-(Here, I'm going tpo summarize my key findings. Include some interesting trends, patterns, or anomalies I discovered during my analysis.)
+(Here, I'm going to summarize my key findings. Include some interesting trends, patterns, or anomalies I discovered during my analysis.)
 
 ## How to Use This Repository
 - `Data`: Contains the raw and cleaned datasets used in the analysis.
