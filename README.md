@@ -1,4 +1,4 @@
-# Avocado-analysis
+# Eployee-Attendence-analysis
 
 ## Overview
 his project focuses on analyzing employee attendance data from April to June 2022, with the aim of deriving insightful trends and patterns. Utilizing PowerBI for dynamic visualizations, our analysis is fed by a Google Sheets database that updates automatically, ensuring real-time data reflection. Key insights we aim to extract include:
