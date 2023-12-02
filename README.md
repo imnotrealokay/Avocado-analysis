@@ -1,7 +1,7 @@
-# Eployee-Attendence-analysis
+# Employee-Attendence-analysis
 
 ## Overview
-his project focuses on analyzing employee attendance data from April to June 2022, with the aim of deriving insightful trends and patterns. Utilizing PowerBI for dynamic visualizations, our analysis is fed by a Google Sheets database that updates automatically, ensuring real-time data reflection. Key insights we aim to extract include:
+This project focuses on analyzing employee attendance data from April to June 2022, with the aim of deriving insightful trends and patterns. Utilizing PowerBI for dynamic visualizations, our analysis is fed by a Google Sheets database that updates automatically, ensuring real-time data reflection. Key insights we aim to extract include:
 
 - Employee preferences for working locations (home vs. office).
 - Analysis of patterns in days taken off and potential underlying reasons.
@@ -33,17 +33,34 @@ Our approach to analysis is methodical and data-driven, focusing on both quantit
   
 Our goal is to provide a comprehensive understanding of employee attendance patterns to enhance workplace management and employee well-being.
 
+## Employee Attendance Analysis Findings: April - June 2022
 
+### Overview of Findings
+Our analysis of employee attendance data from April to June 2022 has yielded several key insights, which are crucial for strategic planning and decision-making within the organization. These insights are as follows:
 
+1. **Work From Home Preference in June 2022:**
+   - A significant trend observed in June 2022 was the increased preference for working from home among employees. This shift in work location preference could be attributed to various factors such as seasonal changes, school holidays, or other external events impacting the workforce.
 
-- What do people prefer, working from home or working from the office?
-- If the employees are taking a specific day off then what could be the reason behind that?
-- If we have the insights of employees working from home towards the start/end/middle of the week then all team building activities can be planned during that period when most of the people are here.
-- If more employees are taking sick leaves then we can assume that there could be seasonal flu or covid outbreaks and we can take extra precautions.
-- 
+2. **Attendance Impact on Release Date Planning:**
+   - The data revealed that the presence percentage of employees is a vital factor in planning release dates for new features and software. A higher presence percentage indicates more hands-on deck, potentially leading to more efficient and timely releases.
 
-## Results and Findings
-(Here, I'm going to summarize my key findings. Include some interesting trends, patterns, or anomalies I discovered during my analysis.)
+3. **Highest Attendance in April; Spike in Sick Leaves in May:**
+   - April saw the best employee attendance rates, suggesting optimal operational capacity during this period. Contrastingly, May experienced a notable increase in sick leaves. This pattern could indicate a seasonal health trend, such as flu or allergies, impacting employee health.
+
+4. **Weekly Attendance Patterns:**
+   - Analysis shows that Mondays have the highest attendance rates, while Fridays witness a surge in work-from-home numbers. This trend could be leveraged for scheduling meetings, collaborative work sessions, and team-building activities more effectively.
+
+### Implications and Actionable Insights
+- **Flexible Working Arrangements:** Given the preference for remote work, especially towards the end of the week, the company could consider more flexible working arrangements to boost employee satisfaction and productivity.
+  
+- **Health and Wellness Initiatives:** The spike in sick leaves in May suggests the need for proactive health and wellness initiatives during this period, perhaps anticipating seasonal health issues.
+
+- **Strategic Scheduling:** The presence data can be utilized for strategic scheduling of important events, releases, and intensive work phases, aligning them with higher attendance periods.
+
+- **Enhanced Planning for Fridays:** With a higher tendency for remote work on Fridays, planning less critical or independent tasks for this day might be more effective.
+
+### Conclusion
+These insights not only provide a deeper understanding of employee attendance trends but also offer valuable guidance for optimizing workforce management and operational planning.
 
 ## How to Use This Repository
 - `Data`: Contains the raw and cleaned datasets used in the analysis. It also contains the link to the Google sheets where the data is comming from.
