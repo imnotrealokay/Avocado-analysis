@@ -9,7 +9,10 @@ his project focuses on analyzing employee attendance data from April to June 202
 - Monitoring of sick leave trends to identify potential health outbreaks, like seasonal flu or COVID-19, for proactive response.
 
 ## Data Source
-The data was sourced from the Hass Avocado Board's official website: [Hass Avocado Board](https://hassavocadoboard.com/category-data/). It includes detailed information on avocado prices and sales volumes across various regions and sizes for the years 2015 and updated regularly
+The data for this analysis was provided by Atlas Technology. To maintain confidentiality and privacy:
+
+-Data Anonymization: All employee names in the dataset have been randomized.
+-Data Integrity: The data retains its integrity and accuracy post-anonymization, ensuring reliable analysis.
 
 ## Data Cleaning and Preparation
 The data cleaning and preparation phase is crucial for ensuring the accuracy and reliability of our analysis. Steps taken in this phase include:
@@ -43,9 +46,8 @@ Our goal is to provide a comprehensive understanding of employee attendance patt
 (Here, I'm going to summarize my key findings. Include some interesting trends, patterns, or anomalies I discovered during my analysis.)
 
 ## How to Use This Repository
-- `Data`: Contains the raw and cleaned datasets used in the analysis.
-- `Scripts`: Includes all scripts used for data cleaning, analysis, and visualization.
-- `Documentation`: Additional documents and references related to the project.
+- `Data`: Contains the raw and cleaned datasets used in the analysis. It also contains the link to the Google sheets where the data is comming from.
+- `PowerBI`: The powerBI file for Data visualization is in this folder. Unfortunately, you will have to Download this file for visualization.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with enhancements or fixes. For major changes, please open an issue first to discuss what you would like to change.
